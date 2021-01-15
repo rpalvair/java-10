@@ -1,4 +1,4 @@
-package com.palvair;
+package com.palvair.java10;
 
 import org.junit.jupiter.api.Test;
 
